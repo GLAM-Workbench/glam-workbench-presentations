@@ -9,3 +9,7 @@ vega-datasets==0.5.0
 arrow==0.12.1
 folium==0.6.0
 tqdm==4.25.0
+textblob==0.15.1
+troveharvester==0.1.13
+wordcloud==1.5.0
+rise==5.4.1
