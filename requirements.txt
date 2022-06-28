@@ -6,7 +6,7 @@ pandas==0.23.4
 requests==2.19.1
 vega==1.4.0
 vega-datasets==0.5.0
-arrow==0.12.1
+arrow==0.15.1
 folium==0.6.0
 tqdm==4.25.0
 textblob==0.15.1
